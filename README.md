@@ -1,4 +1,4 @@
-# mapReduce
+# MongoDB MapReduce
 CS 410 MP :  A Javascript implementation of MapReduce using the MongoDB
 
 ## Summary
