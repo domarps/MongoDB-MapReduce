@@ -9,7 +9,7 @@ In order to import the JSON file into MongoDB, we use the following util :
 ```bash
 mongoimport --db cs410mp3 --collection resumes --file resumes.json
 ```
-Then, run any of the MR implementations in the *mongo shell* as follows:
+Run any of the MR implementations in the *mongo shell* as follows:
 ```bash
 load("PMI.js")
 ```
